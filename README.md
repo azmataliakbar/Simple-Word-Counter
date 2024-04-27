@@ -1,9 +1,9 @@
 # Simple-Word-Counter
-<br>
-# This is Word Counter
-<br>
-# Author: Azmat Ali
-<br>
-# Project 6.0
+
+This is Word Counter
+
+Author: Azmat Ali
+
+Project 6.0
 
 
